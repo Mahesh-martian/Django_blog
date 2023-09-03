@@ -1,0 +1,7 @@
+django
+flask
+requests
+pytest
+numpy
+pandas
+seaborn
